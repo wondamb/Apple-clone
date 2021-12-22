@@ -25,8 +25,8 @@ npm install
 # Author #
 
 
-Tewedaj Shola               
-    GitHub: @tewedaj21	    
+Wondwoson Darios              
+    GitHub: https://github.com/wondamb	    
 
 
 
